@@ -1,4 +1,4 @@
-class Hola
+class SeHabla
   def self.get_language(country)
     languages = {
                               "AFGHANISTAN" => "Persian",
